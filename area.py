@@ -12,7 +12,3 @@ ladoAltura=input()
 areaRectangulo=float(ladoBase)*float(ladoAltura)
 print ("el area del rectangulo es:")
 print (areaRectangulo)
-
-
-
-
